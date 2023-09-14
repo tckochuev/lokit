@@ -1,0 +1,246 @@
+UOF text
+impress_pdf_Export
+DIF
+MWAW_Spreadsheet
+Text
+writer8
+SYLK
+calc_StarOffice_XML_Calc_Template
+XPM
+MOV - MOV
+dBase
+EPUB
+WordPerfect
+calc8
+impress_eps_Export
+MS_Works_Calc
+HTML
+FictionBook 2
+HTML (StarCalc)
+Lotus
+StarOffice XML (Math)
+LotusWordPro
+draw8
+MacWrite
+Text (encoded)
+writerglobal8_writer
+math8
+calc_pdf_addstream_import
+MWAW_Database
+MS Word 97
+chart8
+QXP Document
+Gnumeric Spreadsheet
+AbiWord
+DosWord
+Mac_Works
+MS Word 97 Vorlage
+PalmDoc
+MediaWiki_Web
+MS_Works
+MS_Write
+JPG - JPEG
+Mac_Word
+BMP - MS Windows
+WriteNow
+impress8
+MediaWiki
+MS Word 2007 XML
+math_pdf_Export
+MS Word 95
+ClarisWorks_Impress
+PowerPoint 3
+ClarisWorks
+writer_jpg_Export
+Apple Pages
+OpenDocument Spreadsheet Flat XML
+MS Excel 95
+MS WinWord 5
+MS Excel 97
+MWAW_Bitmap
+MS Excel 4.0
+WEBP - WebP
+DocBook File
+Quattro Pro 6.0
+T602Document
+Impress Office Open XML AutoPlay
+MathType 3.x
+MWAW_Drawing
+ZMF Document
+Apple Keynote
+MS WinWord 6.0
+Apple Numbers
+Mariner_Write
+Plucker eBook
+ADO Rowset XML
+WPS_QPro_Calc
+impress_png_Export
+impress8_draw
+draw_svgz_Export
+writerglobal8
+Mac_Works_Calc
+OpenDocument Drawing Flat XML
+PCT - Mac Pict
+Visio Document
+draw_wmz_Export
+draw_svg_Export
+WPS_Lotus_Calc
+calc8_template
+MS PowerPoint 97 Vorlage
+draw8_template
+PSD - Adobe Photoshop
+BroadBand eBook
+MS Excel 5.0/95
+PocketWord File
+UOF spreadsheet
+MS Excel 4.0 Vorlage/Template
+draw_gif_Export
+XHTML Calc File
+XHTML Draw File
+calc_jpg_Export
+calc_pdf_Export
+calc_png_Export
+MS Excel 2003 XML Orcus
+calc_svg_Export
+draw_bmp_Export
+draw_emf_Export
+MS Excel 97 Vorlage/Template
+draw_emz_Export
+PCX - Zsoft Paintbrush
+draw_eps_Export
+draw_jpg_Export
+draw_pdf_Export
+draw_pdf_import
+draw_png_Export
+draw_tif_Export
+draw_wmf_Export
+ClarisWorks_Calc
+ClarisWorks_Draw
+MS PowerPoint 97
+writer8_template
+MS Word 2003 XML
+Rich Text Format
+UOF presentation
+calc_webp_Export
+draw_html_Export
+PBM - Portable Bitmap
+draw_webp_Export
+Freehand Document
+HTML (StarWriter)
+MS Excel 2003 XML
+MWAW_Presentation
+MathML XML (Math)
+Corel Draw Document
+writer_MIZI_Hwp_97
+StarOffice_Writer
+XHTML Writer File
+impress8_template
+EPS - Encapsulated PostScript
+writer_pdf_Export
+writerweb8_writer_template
+writer_pdf_import
+writer_png_Export
+writerweb8_writer
+writer_svg_Export
+MS Word 95 Vorlage
+MWAW_Text_Document
+PageMaker Document
+Palm_Text_Document
+Publisher Document
+StarOffice_Drawing
+GIF - Graphics Interchange
+XBM - X-Consortium
+XHTML Impress File
+calc_HTML_WebQuery
+impress_bmp_Export
+WMF - MS Windows Metafile
+impress_emf_Export
+impress_gif_Export
+impress_jpg_Export
+impress_pdf_import
+impress_svg_Export
+impress_tif_Export
+MET - OS/2 Metafile
+impress_wmf_Export
+writer_layout_dump
+draw_pdf_addstream_import
+StarOffice_Presentation
+StarOffice XML (Base)
+writer_webp_Export
+WordPerfect Graphics
+writerglobal8_HTML
+Claris_Resolve_Calc
+Microsoft Multiplan
+impress_html_Export
+writer_indexing_export
+impress_webp_Export
+TGA - Truevision TARGA
+Calc Office Open XML
+MS Word 2007 XML VBA
+Office Open XML Text
+RAS - Sun Rasterfile
+StarOffice XML (Writer)
+TIF - Tag Image File
+writer_web_HTML_help
+StarOffice XML (Calc)
+SVG - Scalable Vector Graphics Draw
+StarOffice XML (Draw)
+Text (StarWriter/Web)
+StarOffice XML (Base) Report
+writer_web_jpg_Export
+writer_web_pdf_Export
+writer_web_png_Export
+Calc MS Excel 2007 XML
+PGM - Portable Graymap
+StarOffice XML (Chart)
+StarOffice_Spreadsheet
+draw_PCD_Photo_CD_Base
+Calc Office Open XML Template
+writer_web_webp_Export
+StarOffice XML (Impress)
+writerglobal8_template
+Impress Office Open XML
+PPM - Portable Pixelmap
+SVM - StarView Metafile
+draw_PCD_Photo_CD_Base4
+MS Excel 95 Vorlage/Template
+draw_PCD_Photo_CD_Base16
+Calc MS Excel 2007 Binary
+MS Word 2007 XML Template
+DXF - AutoCAD Interchange
+EMF - MS Windows Metafile
+MS PowerPoint 97 AutoPlay
+Calc MS Excel 2007 VBA XML
+WMZ - Compressed MS Windows Metafile
+OpenDocument Text Flat XML
+Corel Presentation Exchange
+Rich Text Format (StarCalc)
+Text - txt - csv (StarCalc)
+impress_StarOffice_XML_Draw
+writer_pdf_addstream_import
+impress_pdf_addstream_import
+Office Open XML Text Template
+Impress MS PowerPoint 2007 XML
+PNG - Portable Network Graphic
+SVG - Scalable Vector Graphics
+Calc MS Excel 2007 XML Template
+Text (encoded) (StarWriter/Web)
+CGM - Computer Graphics Metafile
+Impress Office Open XML Template
+MS Excel 5.0/95 Vorlage/Template
+writer_globaldocument_pdf_Export
+writer_web_StarOffice_XML_Writer
+draw_StarOffice_XML_Draw_Template
+Impress MS PowerPoint 2007 XML VBA
+OpenDocument Presentation Flat XML
+StarOffice XML (Base) Report Chart
+EMZ - Compressed MS Windows Metafile
+writer_StarOffice_XML_Writer_Template
+Impress MS PowerPoint 2007 XML AutoPlay
+Impress MS PowerPoint 2007 XML Template
+impress_StarOffice_XML_Impress_Template
+SVGZ - Compressed Scalable Vector Graphics
+Text (encoded) (StarWriter/GlobalDocument)
+writer_globaldocument_StarOffice_XML_Writer
+writer_web_StarOffice_XML_Writer_Web_Template
+writer_globaldocument_StarOffice_XML_Writer_GlobalDocument
