@@ -72,7 +72,7 @@ int main(int argc, char** argv)
         return invalidArgumentErrorReturnCode;
     }
 
-    if (optionValues.empty() || getOptionAsString("help")) {
+    if (argc < 2 || getOptionAsString("help")) {
         std::cout << "Usage: lokit PATH_TO_LIBRE_OFFICE PATH_TO_FILE [--options]" << std::endl;
         std::cout << visibleOptions << std::endl;
     }
